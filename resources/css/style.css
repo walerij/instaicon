@@ -1,0 +1,25 @@
+.navbar {
+    background-color: coral;
+}
+#mylogo{
+    text-shadow: 2.5em;
+    text-decoration: none;
+    font-style: italic;
+    /* background-color:  coral;*/
+    background: linear-gradient( red, orange);
+    color: DarkSlateGrey;
+    font-size: 1.5rem;
+
+
+}
+
+.fulllogo {
+    color: transparent;
+	-webkit-background-clip: text;
+	background-clip: text;
+	background-image: linear-gradient(90deg, red, orange, fuchsia);
+}
+
+.card-img-top{
+    width: 50%;
+}
